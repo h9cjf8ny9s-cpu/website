@@ -1,0 +1,2 @@
+Mijn naam is Elif en ik volg de opleiding Software Developer. Op deze GitHub plaats ik projecten en opdrachten die ik tijdens mijn opleiding maak.
+Tot nu toe heb ik geleerd om websites te maken met HTML en CSS en ik ben nu ook begonnen met JavaScript. Ook heb ik geleerd hoe ik code kan testen, fouten kan oplossen en mijn projecten overzichtelijk kan houden. Ik blijf nieuwe dingen leren en mijn programmeervaardigheden verder ontwikkelen.
